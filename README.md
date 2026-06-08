@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a passionate still-learning developer!
 ## 🛠️ Technologies & Tools
 
 - **Languages**: SwiftUI,C, Python, soon JavaScript and HTML.
-- **Tools**: XCODE, VS.
+- **Tools**: XCODE, VS, Antigravity.
 
 ## 📫 How to Reach Me
 
